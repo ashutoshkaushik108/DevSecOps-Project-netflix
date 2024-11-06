@@ -22,14 +22,14 @@ export default function Footer() {
       <Box>
         <Divider>
           <Typography color="grey.700" variant="h6">
-            Developed by{" "}
+            Developed for{" "}
             <Link
               href="https://github.com/crazy-man22"
               underline="none"
               sx={{ color: "text.primary" }}
               target="_blank"
             >
-              Crazy Man
+              netflix-clone
             </Link>
           </Typography>
         </Divider>
